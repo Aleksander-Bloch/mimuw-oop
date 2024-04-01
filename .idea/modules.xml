@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/big-os-exam/big-os-exam.iml" filepath="$PROJECT_DIR$/big-os-exam/big-os-exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/celebrity-problem/celebrity-problem.iml" filepath="$PROJECT_DIR$/celebrity-problem/celebrity-problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expression-utilities/expression-utilities.iml" filepath="$PROJECT_DIR$/expression-utilities/expression-utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fraction/fraction.iml" filepath="$PROJECT_DIR$/fraction/fraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logical-expressions/logical-expressions.iml" filepath="$PROJECT_DIR$/logical-expressions/logical-expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mimuw-oop.iml" filepath="$PROJECT_DIR$/mimuw-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polynomial/polynomial.iml" filepath="$PROJECT_DIR$/polynomial/polynomial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-set/power-set.iml" filepath="$PROJECT_DIR$/power-set/power-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-interface/string-interface.iml" filepath="$PROJECT_DIR$/string-interface/string-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudoku-speed-comparison/sudoku-speed-comparison.iml" filepath="$PROJECT_DIR$/sudoku-speed-comparison/sudoku-speed-comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportation-depots/transportation-depots.iml" filepath="$PROJECT_DIR$/transportation-depots/transportation-depots.iml" />
+    </modules>
+  </component>
+</project>

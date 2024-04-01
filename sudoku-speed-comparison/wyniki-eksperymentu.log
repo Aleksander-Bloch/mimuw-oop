@@ -1,0 +1,18 @@
+Porównywany język: C
+
+Środowisko: Linux 5.13.0-39-generic x86_64
+
+Wersja Javy: 
+openjdk 18 2022-03-22
+OpenJDK Runtime Environment (build 18+36-2087)
+OpenJDK 64-Bit Server VM (build 18+36-2087, mixed mode, sharing)
+
+Wersja kompilatora gcc:
+gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
+opcje: -Wall -Wextra -Wno-implicit-fallthrough -std=c17 -O2
+
+Wyniki eksperymentu:
+                            C       Java    Java(-Xint)
+test_sudoku_easy.in      0,006s    0,099s    0,129s
+test_sudoku_medium.in    0,151s    0,248s    4,191s
+test_sudoku_hard.in      19,729s   21,124s   18m23,622s
